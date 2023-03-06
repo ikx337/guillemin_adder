@@ -4,7 +4,7 @@ the Guillemin adder is an adder between two binary encoded octal digits and a 1-
 <br>
 This file open with Logisim : http://www.cburch.com/logisim/
 <br>
-![guillemin_adder_test](https://user-images.githubusercontent.com/126924483/223112488-d10dcd27-8a7b-4f08-8d25-395efc19be10.png)
+![main](https://user-images.githubusercontent.com/126924483/223115003-117ae7d6-a940-4fb7-b7be-571e9b660fa2.png)
 <br>
 add82 :
 <br>
